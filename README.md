@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mihira
-- 👀 I’m interested in full stack as well as development and intergation with machine learning models
-- 🌱 I’m currently an artificial intelligence and data science student
+-  I love creating different machine learning and deep learning models along with fine-tuning them.
+-  I am also interested in data analysis, processing and visualization. 
+-  I’m currently an artificial intelligence and data science student.
   
 
 
